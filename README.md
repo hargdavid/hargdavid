@@ -10,7 +10,7 @@ Cool that just you found my repository!
 
 ## :technologist: Professional Experience
 
-  I'm currently working as a system developer at HiQ Sweden, where I'm currently works as a consultant with a focus on web development, for the moment working with one of Swedens largest E-commerce sites working as a Front End Developer where some of the techniques are React.js, TypeScript, Next.js, Material UI.  
+  I'm currently working as a system developer at HiQ Sweden, where I'm working as a consultant with web development focus, for the moment working with one of Swedens largest E-commerce sites as a Front End Developer. With a wide variation of techniques e.g. React.js, TypeScript, Next.js, Material UI.  
   <br>
   Always interest in new exiting opportunities not just in Sweden but abroad or remote too! :earth_africa:  
 
